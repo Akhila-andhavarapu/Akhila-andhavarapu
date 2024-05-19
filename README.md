@@ -1,14 +1,15 @@
 
 
-<p align="center">
+<p align="center"><b>
  Hi there, I'm Akhila Andhavarapu 👋
+</b>
 </p>
 
 
 ## About Me
 
-I'm an enthusiastic Graduate student at the University of Texas at Arlington
-Majoring in Computer Science 
+- I'm an enthusiastic Graduate student at the University of Texas at Arlington
+- Majoring in Computer Science 
 
 
 ## Skills
