@@ -1,13 +1,8 @@
-<svg width="400" height="60">
-  <text x="10" y="40" font-size="35" fill="black">
-    <animate attributeName="x" from="10" to="200" dur="2s" begin="0s" repeatCount="indefinite" />
-   Hi there, I'm Akhila 👋
-  </text>
-</svg>
 
-<p align="center">Hi there, I'm Akhila 👋</p>
-# Hi there, I'm Akhila 👋
 
+<p align="center">
+  <img src="https://your-image-url.gif" alt="Hi there, I'm Akhila Andhavarapu 👋">
+</p>
 
 
 ## About Me
