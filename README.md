@@ -1,9 +1,8 @@
 
 
-<p align="center"><b>
- Hi there, I'm Akhila Andhavarapu 👋
-</b>
-</p>
+
+## Hi there, I'm Akhila Andhavarapu 👋
+
 
 
 ## About Me
