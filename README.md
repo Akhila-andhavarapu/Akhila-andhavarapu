@@ -1,7 +1,7 @@
 
 
 <p align="center">
-  <img src="https://your-image-url.gif" alt="Hi there, I'm Akhila Andhavarapu 👋">
+ Hi there, I'm Akhila Andhavarapu 👋
 </p>
 
 
