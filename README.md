@@ -18,15 +18,8 @@
 ![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
 
-
-## Projects
-
-### [My Awesome Project](https://github.com/johndoe/awesome-project)
-A web application that helps users track their tasks. Built with React, Node.js, and MongoDB.
-
-### [Another Cool Project](https://github.com/johndoe/cool-project)
-A RESTful API for a bookstore. Developed using Express.js and PostgreSQL.
 
 ## Contact
 
