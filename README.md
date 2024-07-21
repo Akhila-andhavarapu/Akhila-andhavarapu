@@ -3,7 +3,7 @@
 
 ## Hi there, I'm Akhila Andhavarapu 👋
 
-[![Resume](https://img.shields.io/badge/readme-0077B5?style=for-the-badge&logo=readme&logoColor=white)](https://akhila-andhavarapu.github.io/)
+[![Resume](https://img.shields.io/badge/readme-0077B5?style=for-the-badge&logo=Portfolio&logoColor=white)](https://akhila-andhavarapu.github.io/)
 
 ## About Me
 
